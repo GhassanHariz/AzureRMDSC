@@ -1,5 +1,5 @@
 # Configure all of the settings we want to apply for this configuration
-$ConfigData = @{
+@{
     AllNodes = @(
         @{
             NodeName = 'localhost'
